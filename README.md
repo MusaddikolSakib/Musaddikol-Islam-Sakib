@@ -10,5 +10,5 @@ Hi, I'm Sakib, a passionate SQA Tester.
 * **Automation Tools:** Selenium (WebDriver), Postman, JMeter
 * **Programming Languages (for Automation):** Python
 * **Bug Tracking:** Jira
-* **Test Management:** TestRail, [Other Tools]
+* **Test Management:** TestRail, Other Tools
 * **Methodologies:** Agile
